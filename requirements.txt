@@ -14,7 +14,7 @@ Mako==1.0.7
 MarkupSafe==1.0
 MySQL-python==1.2.5
 normality==0.5.11
-numpy==1.14.2
+numpy==1.22.0
 pycparser==2.18
 pyOpenSSL==17.5.0
 python-dateutil==2.7.0
