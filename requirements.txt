@@ -10,7 +10,7 @@ dataset==1.0.6
 enum34==1.1.6
 idna==2.6
 ipaddress==1.0.19
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.0
 MySQL-python==1.2.5
 normality==0.5.11
