@@ -2,7 +2,7 @@ alembic==0.9.8
 asn1crypto==0.24.0
 banal==0.3.3
 ccxt==1.11.155
-certifi==2018.1.18
+certifi==2022.12.7
 cffi==1.11.5
 chardet==3.0.4
 cryptography==2.2.1
